@@ -1,0 +1,5 @@
+function url({baseurl: '/'} = {}) {
+  …
+}
+
+url() // "/"
